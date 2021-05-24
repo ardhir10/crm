@@ -1,0 +1,24 @@
+Master Data bu nita (Sales Purchase),
+project pny item (Sales Admin),  
+pr create project (Engineer),
+PO pilih project -> pr, bu nita,
+CREATE PR,SELECT PR NUMBER ,VENDOR, SELECT items,1 PR has Many PO and 1 PO has many Items From PR
+PO ubah project harga disc net_harga,vendor,
+PO status 3 ,po,awaiting pay, delivered , gudang
+orng gudang, buk nita ITEM PO,
+
+== Ketika sudah , 
+Gudang ada dua Gudang , WIP
+Status Keluar, Masuk
+
+===REVISI
+Customer - Addres Contact and other Information
++ Master Data Vendor
+(DONE) Format Penomoran Project = 19.10.001 (y-m-auto)
+(DONE) Format Penomoran PR = PR 001 - 19.10.001 (PR+auto - 19-10-01)
+(DONE) Format Penomoran PO = PO 001 - PR 001 - 19.10.001 (PO+auto - 19-10-01 - PRno) 
+
+
+
+
+
